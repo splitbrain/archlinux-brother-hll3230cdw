@@ -1,5 +1,5 @@
-# Original: Andreas Gohr <andi at splitbrain dot org>
-# Original Maintainer: Daniel Wyatt <Daniel.Wyatt at gmail dot com>
+# Maintainer: Andreas Gohr <andi at splitbrain dot org>
+# Contributor: Daniel Wyatt <Daniel.Wyatt at gmail dot com>
 pkgname=brother-hll3230cdw
 pkgver=1.0.2
 pkgrel=1
